@@ -1,7 +1,8 @@
 # gta6-clipper-01 — GTA 6 in 20 seconds, then make.fun
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-gta6--clipper--01-ff2e88)](https://make.fun/bounty/gta6-clipper-01)
-[![YouTube Short](https://img.shields.io/badge/YouTube-Short-red)](https://www.youtube.com/shorts/VijlxMGO4ek)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/gokonk-7/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/gokonk-7/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 Entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"** ($500 pot,
 top 20 share it). The video is the entry: places go by its YouTube views, most first,
